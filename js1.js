@@ -1,3 +1,3 @@
 function msg(){  
- alert("Hello Javascript  again now changed");  
+ alert("Hello Javascript  again now  also changed");  
 }  
